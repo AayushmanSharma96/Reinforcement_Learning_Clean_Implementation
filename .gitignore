@@ -1,0 +1,12 @@
+*.mp4
+*.meta.json
+
+# Ignore other common files and directories
+*.log
+*.tmp
+*.bak
+*.swp
+__pycache__/
+node_modules/
+.DS_Store
+.env
