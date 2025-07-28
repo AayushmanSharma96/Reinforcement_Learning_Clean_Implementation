@@ -1,0 +1,2 @@
+local directory instructions. 
+source dl_torch/bin/activate 
